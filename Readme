@@ -1,0 +1,4 @@
+A tic tac toe engine made in C++ from scratch.
+
+The ttt_engine.txt file contains the main code for the engine
+If you want to play the game then you can compile and run main.cpp
