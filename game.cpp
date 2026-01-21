@@ -307,9 +307,9 @@ void game() {
         {0,0,0}
     };
 
-    //int player = rand()%2 + 1; //  1 / 2
+    int player = rand()%2 + 1; //  1 / 2
 
-    int player = 1; // testing purposes
+    //int player = 1; // testing purposes
 
     int win = -1;
     int moves = 0;
